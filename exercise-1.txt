@@ -1,0 +1,4 @@
+drop database decodemtl_addressbook;
+create database decodemtl_addressbook;
+use decodemtl_addressbook;
+source /Users/admin/Desktop/mysql-workshop-2/data/import-table-structure.sql;

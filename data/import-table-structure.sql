@@ -7,6 +7,7 @@ DROP SCHEMA IF EXISTS `decodemtl_addressbook_import` ;
 -- Schema decodemtl_addressbook_import/ comment
 -- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `decodemtl_addressbook_import` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin ;
+
 USE `decodemtl_addressbook_import` ;
 
 -- -----------------------------------------------------
