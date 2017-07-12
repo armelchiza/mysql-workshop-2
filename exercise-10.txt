@@ -1,0 +1,7 @@
+
+mysql> SELECT COUNT(*) FROM decodemtl_addressbook.Entry WHERE birthday < "1982-02-12 00:00:00";
+
+mysql> SELECT COUNT(*) FROM decodemtl_addressbook.Entry WHERE birthday > "1965-01-01 00:00:00";
+
+mysql> SELECT * FROM Entry ORDER BY birthday ASC LIMIT 1; 
+

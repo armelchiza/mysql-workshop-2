@@ -1,0 +1,7 @@
+
+mysql> SELECT COUNT(*) FROM decodemtl_addressbook.Account;
+
+mysql> SELECT COUNT(*) FROM decodemtl_addressbook.AddressBook;
+
+mysql> SELECT COUNT(*) FROM decodemtl_addressbook.Entry;
+

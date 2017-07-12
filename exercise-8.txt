@@ -1,0 +1,3 @@
+mysql> SELECT email from decodemtl_addressbook.Account WHERE id = 63;
+mysql> SELECT name from decodemtl_addressbook.AddressBook WHERE accountId = 3;
+mysql> SELECT MIN(createdOn) from decodemtl_addressbook.AddressBook WHERE name = "Lorem Foundation";

@@ -101,6 +101,7 @@ UPDATE decodemtl_addressbook.Entry SET lastName='Perry' WHERE lastName='Perrier'
 
 TRUNCATE decodemtl_addressbook.Entry;
 
+
 -- /usr/local/mysql/bin/mysqldump -u root -p backuptables.sql
 -- < /Users/admin/Desktop/mysql-workshop-2/data/database_addressbook.sql ;
 -- DOESN'T WORK :(

@@ -1,0 +1,7 @@
+
+mysql> select count(*) from entry where type != "other";
+
+mysql> select count(*) from entry where type = 'home' OR type = 'work';
+
+mysql> select count(*) from entry where subtype = 'phone';
+
